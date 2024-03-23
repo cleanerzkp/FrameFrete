@@ -2006,7 +2006,7 @@
     "@walletconnect/window-getters" "^1.0.1"
     tslib "1.14.1"
 
-"@xmtp/frames-validator@^0.5.0", "@xmtp/frames-validator@^0.5.2":
+"@xmtp/frames-validator@^0.5.2":
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/@xmtp/frames-validator/-/frames-validator-0.5.2.tgz#708389b829f4a9cbe61fbd728b6c0b2a7f2112c3"
   integrity sha512-m62HoAs47Dz3MHpW1Ec9fdmnvK9GJYyPJl6mWifKblWmoA4s67zAuTF3V8qXv8hEUag6t1XBRF6BpfeKDva4HQ==
@@ -3669,7 +3669,7 @@ fraction.js@^4.3.7:
   resolved "https://registry.yarnpkg.com/fraction.js/-/fraction.js-4.3.7.tgz#06ca0085157e42fda7f9e726e79fefc4068840f7"
   integrity sha512-ZsDfxO51wGAXREY55a7la9LScWpwv9RxIrYABrlvOFBlH/ShPnrtsXeuUIfXKKOVicNxQ+o8JTbJvjS4M89yew==
 
-frames.js@^0.9.0, frames.js@^0.9.3:
+frames.js@^0.9.0, frames.js@^0.9.5:
   version "0.9.5"
   resolved "https://registry.yarnpkg.com/frames.js/-/frames.js-0.9.5.tgz#f80b9785a633f78eeb255121e3b9116e72095602"
   integrity sha512-PsSyxXjujb9DxCo53WmCz1yUiMJQY8PB4hIRmfFnPAS4wF8APi5p6FOLjdMwlWMTeZQboWuCDl3M2aIA/NtvHw==
